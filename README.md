@@ -12,6 +12,6 @@ As you can see, i did all project only in a HTML archive, using INTERNAL CSS.
 
 Have some comments that i have custom to do in some parts of project, only to make some notes.
 
-<img src="design\desktop-preview.jpg" alt="image preview"/>
+<img src="design/desktop-preview.jpg" alt="image preview"/>
 
 **I'm gonna do a better README later.**
